@@ -28,7 +28,7 @@ const CAMPAIGN = {
   author: "Samara Silva",
   category: "Saúde",
   image: "https://i.postimg.cc/rFPKXKPj/IMG-20260302-014029-925.jpg",
-  raised: 166,82.0,
+  raised: 166.82.0,
   goal: 7600.0,
   donorsCount: 0,
   pixKey: "samysilvalestosa@gmail.com",
