@@ -30,7 +30,7 @@ const CAMPAIGN = {
   image: "https://i.postimg.cc/rFPKXKPj/IMG-20260302-014029-925.jpg",
   raised: 1133.12,
   goal: 7600.0,
-  donorsCount: 0,
+  donorsCount: 12,
   pixKey: "samysilvalestosa@gmail.com",
   documents: [
     "https://i.postimg.cc/SRyV9YgL/IMG-20260304-WA0006.jpg",
